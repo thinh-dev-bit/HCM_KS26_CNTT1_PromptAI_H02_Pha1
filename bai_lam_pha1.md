@@ -1,9 +1,9 @@
 # BÀI LÀM PHA 1 – HACKATHON 02
 
 - **Mã đề:** 04
-- **Họ tên:**
-- **Lớp:**
-- **Link repository Pha1:**
+- **Họ tên:** Trịnh Phú Thịnh
+- **Lớp:** HCM-KS26-CNTT1
+- **Link repository Pha1:** https://github.com/thinh-dev-bit/HCM_KS26_CNTT1_PromptAI_H02_Pha1.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
